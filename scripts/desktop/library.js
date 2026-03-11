@@ -1,3 +1,7 @@
+/**
+ * added gitintegration
+ */
+
 const SiConf = {
     commentFieldName: 'commentField',
     commentPageId: 'page_comments',
